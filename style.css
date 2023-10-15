@@ -1,0 +1,7 @@
+.tag{border: 2px solid black; border-radius: 12px;}
+		th{ font-size: 21px; color: black;}
+		#btn{background: #e6ccb2; color: black; width:349px; margin: 15px;}
+		.style{text-align: center;width: 50%;margin: 320px 370px;background: lightyellow; border: 2px solid mediumpurple; border-radius: 23px; display: inline-block;}
+		.mustarka{margin: 70px; border: 3px solid #b08968; background: #b08968; border-radius: 35px; display: inline-block; width: 40%;}
+		@font-face{font-family: jpweb; src: url(Ubuntu-Bold.ttf);}
+		body{font-family: jpweb}
